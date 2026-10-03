@@ -5,7 +5,8 @@
 - Team name (if applicable):Tech_worriors
 - Members and GitHub usernames:C.sai krishna(csaikrishna1911)
 -                              Lade Kavya (LadeKavya)
-- Profile links (optional):
+- Profile links (optional):1.https://github.com/csaikrishna1911, 2.https://github.com/LadeKavya
+                           
 
 ## Challenge
 
